@@ -70,7 +70,7 @@ python heart_disease_prediction.py
 
 ## 📈 Model Performance
 
-[To be added: Information about model accuracy, precision, recall, and F1-score]
+
 
 ## 🤝 Contributing
 
