@@ -1,7 +1,11 @@
-﻿# Heart Disease Prediction Model 🫀
+# Heart Disease Prediction Model 🫀
 
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/)
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Sklearn-orange.svg)](https://scikit-learn.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-lightgrey)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-Numerical-blue)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-yellow)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-blue)](https://seaborn.pydata.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 A machine learning project that predicts the likelihood of heart disease based on various medical indicators and patient characteristics.
@@ -19,6 +23,12 @@ A machine learning project that predicts the likelihood of heart disease based o
 ## 🔍 Overview
 
 This project implements a machine learning model to predict the presence of heart disease in patients. It uses various medical attributes to make predictions, helping in early detection and risk assessment.
+
+**Key libraries used:**
+- [Pandas](https://pandas.pydata.org/) for data manipulation and analysis
+- [NumPy](https://numpy.org/) for numerical operations
+- [Matplotlib](https://matplotlib.org/) and [Seaborn](https://seaborn.pydata.org/) for data visualization
+- [Scikit-learn](https://scikit-learn.org/) for machine learning modeling
 
 ## ✨ Features
 
@@ -60,7 +70,7 @@ python heart_disease_prediction.py
 
 ## 📈 Model Performance
 
-will be added 
+[To be added: Information about model accuracy, precision, recall, and F1-score]
 
 ## 🤝 Contributing
 
